@@ -39,7 +39,7 @@ npm run dist # 生产发布
 
 > 更多命令请参考`package.json`文件中的`scripts`.
 
-##License
+## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
