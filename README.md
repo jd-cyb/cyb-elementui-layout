@@ -1,6 +1,6 @@
 # CYB-ElementUI-Layout
 
-`CYB-ElementUI-Layout`是使用塞伯坦前端模块化工程构建工具的基于vue、elementUI的中后台项目开发模型，旨在帮助开发者快速构建多终端适配的中后台项目的工程化开发模式和界面布局。
+`CYB-ElementUI-Layout`是使用塞伯坦前端模块化工程构建工具的基于vue、elementUI的中后台项目开发模型，旨在帮助开发者快速构建多终端适配的工程化开发模式和界面布局。
 
 * 基于vue、elementUI
 * 自适配PC及移动端的响应式布局
