@@ -1,0 +1,55 @@
+{
+  "name": "cyb-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "cyb dev",
+    "dist": "cyb dist",
+    "page": "cyb page",
+    "test": "cyb test",
+    "zip": "cyb zip",
+    "sftp": "cyb sftp",
+    "fontmin": "cyb fontmin",
+    "imagemin": "cyb imagemin"
+  },
+  "repository": {},
+  "keywords": [
+    "CYB",
+    "塞伯坦",
+    "前端工程",
+    "前端模块化",
+    "前端自动化"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-runtime": "^6.26.0",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.20s",
+    "cyb-cli": "^1.6.1",
+    "webpack": "^4.27.1"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "axios": "^0.18.0",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "element-ui": "^2.4.11",
+    "font-awesome": "^4.7.0",
+    "js-cookie": "^2.2.0",
+    "vue": "^2.5.20",
+    "vue-progressbar": "^0.7.5",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.0.1",
+    "vuex-router-sync": "^5.0.0"
+  },
+  "author": "CYB前端小组",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/jd-cyb/cyb-cli#readme"
+}
