@@ -31,8 +31,7 @@
     "babel-runtime": "^6.26.0",
     "vue-loader": "^15.4.2",
     "vue-template-compiler": "^2.5.20s",
-    "cyb-cli": "^1.6.1",
-    "webpack": "^4.27.1"
+    "cyb-cli": "^1.6.1"
   },
   "dependencies": {
     "animate.css": "^3.7.0",

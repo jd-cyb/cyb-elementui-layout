@@ -15,29 +15,15 @@
 
 ## 快速开始
 
-**下载**
-
 ```bash
-git clone https://github.com/jd-cyb/cyb-elementui-layout.git
-```
-
-**安装**
-
-```bash
-cd cyb-elementui-layout
-
 npm install # 或者 yarn install
-```
 
-**使用**
-
-```bash
 npm run dev # 研发环境
 
 npm run dist # 生产发布
 ```
 
-> 更多命令请参考`package.json`文件中的`scripts`.
+> 更多命令请参考`package.json`的`scripts`.
 
 ## License
 
